@@ -1,0 +1,1 @@
+This repo contains a simple TypeScript bug and its solution. The bug is caused by passing an array of strings to a function that expects a single string argument. The solution is to modify the function signature to accept an array of strings, or to modify the function body to handle arrays of strings appropriately.
